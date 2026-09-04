@@ -1,2 +1,32 @@
 # E20-calculator
+# ⛽ The Hidden E20 Fuel Tax Calculator
 
+A lightweight, interactive data-visualization tool designed to calculate the real economic impact of India's E20 fuel mandate on daily commuters, gig workers, and commercial drivers.
+
+**[Try the Live Calculator Here]** *(Note: Add your GitHub Pages link here once deployed!)*
+
+---
+
+## 📊 The Context
+In April 2026, the mandatory rollout of E20 fuel (a 20% ethanol blend) became the standard across Indian fuel stations. While positioned as a green transition to reduce crude oil imports, it has introduced severe financial and mechanical burdens on the average consumer. 
+
+Because ethanol has roughly 33% less energy density than pure petrol, a 20% blend results in an inherent **5% to 8% drop in fuel efficiency (mileage)**. This calculator translates that theoretical efficiency drop into real, localized financial metrics—allowing users to see exactly how much this "hidden tax" is costing them annually.
+
+## ✨ Features
+* **Real-Time Data Calculation:** Dynamic sliders update financial losses instantly based on daily commute, vehicle mileage, and fuel prices.
+* **Contextual Presets:** Pre-configured profiles for **Gig Riders**, **Commuters**, and **Cab Drivers** to provide immediate baseline estimates.
+* **Data-Driven Insights:** Calculates the exact volume of extra fuel required per year and the out-of-pocket financial loss.
+* **Mobile-Optimized:** Built with a responsive, dark-mode UI for seamless use on smartphones at fuel stations or on the go.
+
+## 🛠️ Tech Stack
+This project is built to be fast, serverless, and easily hostable:
+* **HTML5** (Structure)
+* **Tailwind CSS via CDN** (Styling & Responsive Design)
+* **Vanilla JavaScript** (Logic & Calculations)
+* **Hosted on:** GitHub Pages
+
+## 🚀 How to Run Locally
+Since this is a client-side only application, running it locally is incredibly simple:
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/yourusername/e20-calculator.git](https://github.com/yourusername/e20-calculator.git)
